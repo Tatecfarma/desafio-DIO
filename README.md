@@ -32,4 +32,4 @@ Etapa de construção do site e piblucação do site:
 https://gamma.app/docs/A-Evolucao-da-Ciencia-Farmaceutica-O-Poder-da-Modelagem-Computaci-zul9g8vee7t2m0u?mode=doc
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O desafio irá ampliar meus conhecimentos acerca do assunto e será de utilidade pública para aqueles que se interessam sobre o assunto, além de favorecer a divulgação de empresas.
